@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:orientation="horizontal">
+
+
+            <ImageView
+                android:id="@+id/userImg"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginStart="8dp"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/image"
+                android:scaleType="centerCrop"
+                tools:src="@android:drawable/star_on" />
+
+            <TextView
+                android:id="@+id/userText"
+                style="@style/PrimaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_marginStart="16dp"
+                android:layout_toEndOf="@id/userImg"
+                android:gravity="center_vertical"
+                tools:text="Yunus İşleyen | Dekamir" />
+
+            <TextView
+                android:id="@+id/userDesc"
+                style="@style/SecondaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/userText"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="10dp"
+                android:layout_toEndOf="@id/userImg"
+                tools:text="Always confused with an Italian or French, this guy can change his design language five times a day." />
+
+
+        </RelativeLayout>

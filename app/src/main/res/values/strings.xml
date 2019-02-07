@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Echelon Team App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">You</string>
+    <string name="nav_header_subtitle">guest@echelonteam.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="members">Members</string>
+    <string name="projects">Projects</string>
+    <string name="custom_roms">Custom ROMs</string>
+    <string name="downloads">Downloads</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="contacts">Contacts</string>
+    <string name="yunus_desc">Always confused with an Italian or French, this guy can change his design language five times a day.</string>
+    <string name="yunusname">Yunus İşleyen | Dekamir</string>
+    <string name="role_yunus">Founder, designer</string>
+    <string name="enesname">Enes Şaştım | EnesSastim</string>
+    <string name="role_enes">Executive developer</string>
+    <string name="enes_desc">Everyone likes this guy. He somehow built every damn custom ROM available so his name can be everywhere.</string>
+    <string name="peakname">Krittin Chuaiphikroh | peaktogoo</string>
+    <string name="role_peak">ROM Developer</string>
+    <string name="peak_desc">With such information, we don\'t know why is this guy still helping us. He\'s a good guy, but very annoying.</string>
+    <string name="nanoname">Rudy Naddour | TheMiniDev</string>
+    <string name="role_nano">App developer</string>
+    <string name="nano_desc">Weirdly known by every member, his qualifying features is that he\'s goddamn fast. Really.</string>
+    <string name="resitname">Reşit Menekşe | TGPResit</string>
+    <string name="role_resit">Community manager</string>
+    <string name="resit_desc">Saw weird stickers constantly? It\'s probably this guy. He can shitpost 24/7. We\'re trying to slow him down.</string>
+    <string name="mactavishname">Ataberk Özen | MacTavishAO</string>
+    <string name="role_mactavish">ROM Developer</string>
+    <string name="mactavish_desc">An atheist,rom developer and a nice guy.</string>
+    <string name="developer">Developer who develops things</string>
+
+    <string name="image">image</string>
+</resources>
